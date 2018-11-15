@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/EmptyWinApp/Form1.cs) (VB: [Form1.vb](./VB/EmptyWinApp/Form1.vb))
+* [Program.cs](./CS/EmptyWinApp/Program.cs) (VB: [Program.vb](./VB/EmptyWinApp/Program.vb))
+<!-- default file list end -->
 # How to hide filter items whose corresponding field values are not displayed
 
 
